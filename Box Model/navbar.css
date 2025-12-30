@@ -1,0 +1,36 @@
+div{
+    height: 60px;
+    background-color: black;
+    border-style: dashed
+    ;
+    border-width: 10px;
+    border-color: red;
+
+}
+#text{
+    color: orange;
+    margin-right: 200px;
+}
+#link{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+#cart{
+    text-decoration: none;
+    color: white;
+    margin-right: 200px;
+}
+#contact{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+#searchbox{
+    background-color: white;
+    
+}
+button{
+    background-color: orange;
+    color: white;
+}

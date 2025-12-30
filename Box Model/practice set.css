@@ -1,0 +1,20 @@
+div{
+    height: 300px;
+    width: 300px;
+    border-width: 5px;
+    border-color: red;
+    border-style: dashed;
+    background-image:url("https://wallpapercave.com/wp/wp2597418.jpg");
+
+
+}
+div{
+    position: fixed;
+    right: 0px;
+}
+div1{
+
+}
+.image{
+    z-index: -1;
+}
